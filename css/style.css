@@ -1,6 +1,6 @@
 body {
 	min-width: 480px;
-	background: #EAEDF0;
+	background: #e1edf9;
 	margin: 0;
 }
 .block {
@@ -90,7 +90,7 @@ body {
 }
 .buy {
 	color: #fbfbfb;
-	background-color: #6747fb;
+	background-color: #604cbd;
 	font-size: 36px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-weight: bold;
