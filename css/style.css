@@ -1,0 +1,109 @@
+body {
+	min-width: 480px;
+	background: #a4cfed;
+	margin: 0;
+}
+.irt {
+	width: 480px;
+	margin: 0 auto;
+	padding: 0;
+}
+.prod {
+	width: 480px;
+	margin: 0 auto;
+	padding: 0;
+}
+.prod h1 {
+	font-size: 38px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	color: #4453F7;
+}
+.irt h1 {
+	font-size: 40px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #040401;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+.dost {
+	width: 480px;
+	margin: 0 auto;
+	padding: 0;
+}
+.irt h2 {
+	font-size: 30px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #040404;
+}
+.dost h2 {
+	font-size: 30px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #040404;
+}
+.prod p {
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	color: #040401;
+}
+.dost li {
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #040401;
+}
+.prod_photo img {
+	width: 480px;
+}
+.desc p {
+	font-size: 22px;
+	color: #040401;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: justify;
+}
+.preim h2 {
+	font-size: 30px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #040401;
+}
+.preim li {
+	width: 480px;
+	color: #040401;
+	font-size: 22px;
+}
+.preim li img {
+	width: 480px;
+}
+.price {
+	font-size: 36px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #4453F1;
+	font-weight: bold;
+	text-align: center;
+}
+.action {
+	font-size: 36px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #040401;
+	font-weight: bold;
+	text-align: center;
+}
+.order p {
+	text-align: center;
+}
+.pol {
+	text-align: center;
+}
+.buy {
+	color: #e7e7f1;
+	background-color: #4a62b0;
+	font-size: 36px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-weight: bold;
+	text-align: center;
+}
+.form {
+	text-align: center;
+	width: 340px;
+	height: 42px;
+}
