@@ -1,4 +1,3 @@
-<script>
     (function() {
     var name = '_jW2zPgBGJzMGJzzn';
     if (!window._jW2zPgBGJzMGJzzn) {
@@ -39,4 +38,3 @@
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(a, s)
     })();
-    </script>
